@@ -2,9 +2,9 @@
 
 ### Focado em Cibersegurança | Estudante de ADS na UDF
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF[cite: 1]. Atualmente, o meu foco de estudo e desenvolvimento profissional é a área de Cibersegurança[cite: 1], buscando compreender arquiteturas seguras e proteção de dados. 
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF. Atualmente, o meu foco de estudo e desenvolvimento profissional é a área de Cibersegurança, buscando compreender arquiteturas seguras e proteção de dados. 
 
-O meu objetivo atual é ingressar no mercado de trabalho e estou ativamente à procura de um estágio em TI/Segurança[cite: 1].
+O meu objetivo atual é ingressar no mercado de trabalho e estou ativamente à procura de um estágio em TI/Segurança.
 
 ## 💻 O que estou a aprender e a utilizar
 Neste momento, estou a aprofundar os meus conhecimentos nas seguintes tecnologias[cite: 1]:
