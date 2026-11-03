@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF. Atualmente
 O meu objetivo atual é ingressar no mercado de trabalho e estou ativamente à procura de um estágio em TI/Segurança.
 
 ## 💻 O que estou a aprender e a utilizar
-Neste momento, estou a aprofundar os meus conhecimentos nas seguintes tecnologias[cite: 1]:
+Neste momento, estou a aprofundar os meus conhecimentos nas seguintes tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
