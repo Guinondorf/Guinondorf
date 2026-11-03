@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Lourenço! 👋
 
-<!--
-**Guinondorf/Guinondorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Focado em Cibersegurança | Estudante de ADS na UDF
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF[cite: 1]. Atualmente, o meu foco de estudo e desenvolvimento profissional é a área de Cibersegurança[cite: 1], buscando compreender arquiteturas seguras e proteção de dados. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+O meu objetivo atual é ingressar no mercado de trabalho e estou ativamente à procura de um estágio em TI/Segurança[cite: 1].
+
+## 💻 O que estou a aprender e a utilizar
+Neste momento, estou a aprofundar os meus conhecimentos nas seguintes tecnologias[cite: 1]:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+## 🌐 Conecta-te comigo
+- 💼 **LinkedIn:** [Acessar meu perfil](https://linkedin.com/in/guilherme-freire-fortuna-lourenço-2a1388425)[cite: 1]
+- 🎓 **DIO:** [Meu perfil na Digital Innovation One](https://web.dio.me/users/guilhermefreirefortuna)[cite: 1]
+- 📧 **E-mail:** guilhermefreirefortuna@outlook.com[cite: 1]
+
+---
+⭐️ *Perfil criado como parte do desenvolvimento profissional e portfólio técnico.*
