@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Lourenço! 👋
+# Olá, eu sou o Guilherme Freire Fortuna Lourenço! 👋
 
 ### Focado em Cibersegurança | Estudante de ADS na UDF
 
