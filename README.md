@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Lourenço! 👋
 
-### 🛡️ Focado em Cibersegurança | Estudante de ADS na UDF
+### Focado em Cibersegurança | Estudante de ADS na UDF
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF[cite: 1]. Atualmente, o meu foco de estudo e desenvolvimento profissional é a área de Cibersegurança[cite: 1], buscando compreender arquiteturas seguras e proteção de dados. 
 
@@ -17,9 +17,6 @@ Neste momento, estou a aprofundar os meus conhecimentos nas seguintes tecnologia
 </div>
 
 ## 🌐 Conecta-te comigo
-- 💼 **LinkedIn:** [Acessar meu perfil](https://linkedin.com/in/guilherme-freire-fortuna-lourenço-2a1388425)[cite: 1]
-- 🎓 **DIO:** [Meu perfil na Digital Innovation One](https://web.dio.me/users/guilhermefreirefortuna)[cite: 1]
-- 📧 **E-mail:** guilhermefreirefortuna@outlook.com[cite: 1]
-
----
-⭐️ *Perfil criado como parte do desenvolvimento profissional e portfólio técnico.*
+- 💼 **LinkedIn:** [Acessar meu perfil](https://www.linkedin.com/in/guilherme-louren%C3%A7o-2a1388425/)
+- 🎓 **DIO:** [Meu perfil na Digital Innovation One](https://web.dio.me/users/guilhermefreirefortuna)
+- 📧 **E-mail:** guilhermefreirefortuna@outlook.com
